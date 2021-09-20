@@ -11,3 +11,5 @@ https://datahack.analyticsvidhya.com/contest/job-a-thon-september-2021/?utm_sour
   * Building different model on top of it -- XGB, RandomForest, CatBoost, LightGBM
   * Hyperparameter Optimization Using Optuna for each of the specific models
   * Stacking all the models to get more Robust result.
+
+## Public Score : 203.152034998622 (Rank-14)
